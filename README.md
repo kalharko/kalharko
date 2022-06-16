@@ -29,6 +29,7 @@ The way ttrpg get people together is what I love about it.
 <br><br>
 ## 🎒 **School projects**
 Here are the school projects I have made, often in groups.
+- [it45-project](https://github.com/kalharko/it45-project) Operational research class, we solved a time table problem with the __Simulated annealing algorithm__. (C)
 - [curses-turing-machine](https://github.com/kalharko/cursesTuringMachine) A programmable turing machine visualization in ncurses for an algorithm and quantum algorithms class (Python)
 - [LO21](https://github.com/kalharko/projet-LO21) An expert database done for an algorithmic and programming class (C)
 - [IFE](https://github.com/AlexisBouligand/The-Belotte-Project) A coinch game application, GUI made with SDL (C)
