@@ -22,8 +22,8 @@ The way ttrpg get people together is what I love about it.
 ## 🎮 **Game Jams**
 (on my [itch.io](https://abi-oscar.itch.io/) page) Game jams organised by the student club of game making at the UTBM.
 
-⭐ [Orbital Market](https://abi-oscar.itch.io/orbital-market) My most recent game, playable in browser (32h jam)
-⭐ [Splouch](https://abi-oscar.itch.io/splouch) My second most recent game, playable in browser (1 week jam)
+⭐ [Orbital Market](https://abi-oscar.itch.io/orbital-market) Playable in browser (32h jam)
+⭐ [Splouch](https://abi-oscar.itch.io/splouch) Playable in browser (1 week jam)
 - [Aoc 2021 day 11](https://abi-oscar.itch.io/aoc-day-11) This is a visualization of the Advent of Code 2021 day 11 problem.
 - [ppe-insectoide-intro](https://abi-oscar.itch.io/ppe-insectoide-intro) Solo adventure played as a book where you're the hero (in French)
 
