@@ -17,6 +17,7 @@ Here are the school projects I have made, often in groups.
 ## 🎮 **Game Jams**
 (on my [itch.io](https://abi-oscar.itch.io/) page) Game jams organised by the student club of game making at the UTBM.
 
+- ⭐ [Alien Sushi](https://carl-r.itch.io/alien-sushi) Playable in browser (21h jam)
 - ⭐ [Orbital Market](https://abi-oscar.itch.io/orbital-market) Playable in browser (32h jam)  
 - ⭐ [Splouch](https://abi-oscar.itch.io/splouch) Playable in browser (1 week jam)
 - [Aoc 2021 day 11](https://abi-oscar.itch.io/aoc-day-11) This is a visualization of the Advent of Code 2021 day 11 problem.
