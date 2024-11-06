@@ -2,6 +2,14 @@
 ### Oscar Dewasmes
 
 <br><br>
+## 💼**Profesional projects**
+Here are the publicly available projects I worked on in a profesional context.
+- ⭐ [Fine tuning d'un modèle de vision artificielle](https://rebootia.com/2024/04/09/fine-tuning-pour-la-reconnaissance-de-pietons-et-vehicules-dans-un-entrepot/)
+- ⭐[Génération d'un dataset synthétique d'images avec Blender](https://rebootia.com/2024/04/05/dataset-synthetique-grace-au-rendu-3d-dans-blender/)
+- ⭐[Systèmes multi-agents, la méthode Eco Problem Solving](https://rebootia.com/2024/03/22/systemes-multi-agents-la-methode-eco-problem-solving/)
+- [Introduction au fonctionnement d'un réseau de neuronnes par l'exemple](https://rebootia.com/2024/06/10/demystification-mathematiques-le-fonctionnement-dun-reseau-de-neurones/)
+
+<br><br>
 ## 🎒 **School projects**
 Here are the school projects I have made, often in groups.
 - ⭐ [pAIcmain](https://github.com/kalharko/paicman) Multi agent strategies for team vs team pacman game.
