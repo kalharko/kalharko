@@ -26,11 +26,14 @@ Here are the school projects I have made, often in groups.
 (on my [itch.io](https://abi-oscar.itch.io/) page) Game jams organised by the student club of game making at the UTBM.
 
 - ⭐ [Alien Sushi](https://carl-r.itch.io/alien-sushi) Playable in browser (21h jam)  
-<img src="images/alien_sushi.png" width = 400>  
+<img src="images/alien_sushi.png" width = "400">
+
 - ⭐ [Orbital Market](https://abi-oscar.itch.io/orbital-market) Playable in browser (32h jam)  
-<img src="images/orbital_market.png" width = 400>  
+<img src="images/orbital_market.png" width = "400">
+
 - ⭐ [Splouch](https://abi-oscar.itch.io/splouch) Playable in browser (1 week jam)  
-<img src="images/splouch.png" width = 400>  
+<img src="images/splouch.png" width = "400">
+
 - [Aoc 2021 day 11](https://abi-oscar.itch.io/aoc-day-11) Playable in browser. This is a visualization of the Advent of Code 2021 day 11 problem.
 
 
@@ -39,7 +42,7 @@ Here are the school projects I have made, often in groups.
 I love Blender and the large number of possible ways to be creative with it. Here are my projects done with Blender :
 
  - ⭐ [On Tumblr](https://kalharko.tumblr.com/)  
- <img src="images/planet_wall_paper.png" width = 400>
+ <img src="images/planet_wall_paper.png" width = "400">
  - [On Youtube](https://www.youtube.com/channel/UCboGMqJM4QhAgs_mOdBCA3g) (one animation)
 
 
