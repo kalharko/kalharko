@@ -12,7 +12,7 @@ Here are the publicly available projects I worked on in a profesional context.
 <br><br>
 ## 🎒 **School projects**
 Here are the school projects I have made, often in groups.
-- ⭐⭐ [pAIcmain](https://github.com/kalharko/paicman) Multi agent strategies for team vs team pacman game.
+- ⭐⭐ [pAIcman](https://github.com/kalharko/paicman) Multi agent strategies for team vs team pacman game.
 - ⭐ [splendia](https://github.com/kalharko/splendia) Web browser version of the board game Splendor. Development of Artificial Inteligence. 
 - ⭐ [it45-project](https://github.com/kalharko/it45-project) Operational research class, we solved a time table problem with the Simulated annealing algorithm. (C)
 - [curses-turing-machine](https://github.com/kalharko/cursesTuringMachine) A programmable turing machine visualization in ncurses for an algorithm and quantum algorithms class (Python)
