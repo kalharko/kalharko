@@ -14,7 +14,7 @@ Here are the publicly available projects I worked on in a profesional context.
 Here are the school projects I have made, often in groups.
 - ⭐⭐ [pAIcman](https://github.com/kalharko/paicman) Multi agent strategies for team vs team pacman game.
 - ⭐ [splendia](https://github.com/kalharko/splendia) Web browser version of the board game Splendor. Self play PPO neural network. 
-- ⭐ [it45-project](https://github.com/kalharko/it45-project) Operational research class, we solved a time table problem with the Simulated annealing algorithm. (C)
+- ⭐ [it45-project](https://github.com/kalharko/it45-project) Operational research class, we solved a time table problem with multiple operational research algorithms. (C)
 - [curses-turing-machine](https://github.com/kalharko/cursesTuringMachine) A programmable turing machine visualization in ncurses for an algorithm and quantum algorithms class (Python)
 - [LO21](https://github.com/kalharko/projet-LO21) An expert database done for an algorithmic and programming class (C)
 - [IFE](https://github.com/AlexisBouligand/The-Belotte-Project) A coinch game application, GUI made with SDL (C)
