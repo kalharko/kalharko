@@ -25,7 +25,7 @@ Here are the school projects I have made, often in groups.
 ## 🎮 **Game Jams**
 (on my [itch.io](https://abi-oscar.itch.io/) page) Game jams organised by the student club of game making at the UTBM.
 
-- ⭐ [Alien Sushi](https://carl-r.itch.io/alien-sushi) Playable in browser (21h jam, Unity, équipe de 7 personnes)  
+- ⭐ [Alien Sushi](https://carl-r.itch.io/alien-sushi) Playable in browser (21h jam, Unity, team of 7)  
 <img src="images/alien_sushi.png" width = "400">
 
 - ⭐ [Orbital Market](https://abi-oscar.itch.io/orbital-market) Playable in browser (32h jam, Unity, solo)  
@@ -35,6 +35,23 @@ Here are the school projects I have made, often in groups.
 <img src="images/splouch.png" width = "400">
 
 - [Aoc 2021 day 11](https://abi-oscar.itch.io/aoc-day-11) Playable in browser. This is a visualization of the Advent of Code 2021 day 11 problem.
+
+
+<br><br>
+## 🏆 **Code Competitions**
+### [Advent Of Code](https://adventofcode.com/2024/about)
+Advent of Code is an Advent calendar of small programming puzzles for a variety of skill levels that can be solved in any programming language.
+Every year, there are 2 problems to solve for 25 days. I give myself at most one day for each puzzle, to track my progression over the years.
+- [2024](https://adventofcode.com/2024) 44 problem solved
+- [2023](https://adventofcode.com/2023) 30 problem solved
+- [2022](https://adventofcode.com/2022) 29 problem solved
+- [2021](https://adventofcode.com/2021) 34 problem solved
+
+Total stars: 137*
+
+### [Codingames](https://www.codingame.com/home)
+Codingames is a website full of coding puzzles, algorithm training, problem solving, optimisation and AI competitions.
+I keep my skills sharp on there.
 
 
 <br><br>
