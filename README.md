@@ -4,6 +4,11 @@
 <br><br>
 ## 💼**Profesional projects**
 Here are the publicly available projects I worked on in a profesional context.
+### At Météo-France
+- ⭐ [mfai](https://github.com/meteofrance/mfai) Météo-France AI python package with implementations of multiple ML models.
+-  [py4cast](https://github.com/meteofrance/py4cast) Train and compare various ML models for weather forcasting.
+
+### At Reboot-Conseil
 - ⭐ [Fine tuning d'un modèle de vision artificielle](https://rebootia.com/2024/04/09/fine-tuning-pour-la-reconnaissance-de-pietons-et-vehicules-dans-un-entrepot/)
 - ⭐[Génération d'un dataset synthétique d'images avec Blender](https://rebootia.com/2024/04/05/dataset-synthetique-grace-au-rendu-3d-dans-blender/)
 - ⭐[Systèmes multi-agents, la méthode Eco Problem Solving](https://rebootia.com/2024/03/22/systemes-multi-agents-la-methode-eco-problem-solving/)
@@ -50,7 +55,7 @@ Every year, there are 2 problems to solve for 25 days. I give myself at most one
 Total stars: 137*
 
 ### [Codingames](https://www.codingame.com/home)
-Codingames is a website full of coding puzzles, algorithm training, problem solving, optimisation and AI competitions.
+Codingames is a website full of coding puzzles, algorithm training, problem solving, optimisation and video game style AI competitions.
 I keep my skills sharp on there.
 
 
