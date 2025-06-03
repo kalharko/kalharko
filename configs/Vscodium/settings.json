@@ -1,0 +1,59 @@
+{
+    "workbench.colorTheme": "Default High Contrast",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.minimap.enabled": false,
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 0,
+    "window.menuBarVisibility": "compact",
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "editor.cursorSurroundingLines": 8,
+    "editor.lineNumbers": "interval",
+    "codeium.enableExplainProblem": false,
+    "codeium.enableCodeLens": false,
+    "editor.glyphMargin": false,
+    "flake8.args": [
+        "--ignore=E501,W504"
+    ],
+    "autopep8.args": [
+        "--max-line-length=10000000"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "problems.visibility": true,
+    "editor.smoothScrolling": true,
+    "editor.mouseWheelScrollSensitivity": 5,
+    "editor.fastScrollSensitivity": 8,
+    "editor.overviewRulerBorder": false,
+    "workbench.colorCustomizations": {
+        // Scrollbar
+        "editorOverviewRuler.addedForeground": "#0000",
+        "editorOverviewRuler.modifiedForeground": "#0000",
+        "editorOverviewRuler.deletedForeground": "#0000",
+        // Gutter (same as tweaking scm.diffDecorations?)
+        "editorGutter.addedBackground": "#0000",
+        "editorGutter.modifiedBackground": "#0000",
+        "editorGutter.deletedBackground": "#0000"
+    },
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "editor.guides.indentation": false,
+    "files.insertFinalNewline": true,
+    "editor.lightbulb.enabled": "off",
+    "editor.formatOnSave": true,
+    "editor.showFoldingControls": "never",
+    "plantuml.diagramsRoot": "documentation/",
+    "plantuml.exportIncludeFolderHeirarchy": false,
+    "plantuml.exportOutDir": "documentation/",
+    "plantuml.exportSubFolder": false,
+    "plantuml.render": "PlantUMLServer",
+    "plantuml.server": "https://www.plantuml.com/plantuml",
+    "explorer.confirmDragAndDrop": false
+}
