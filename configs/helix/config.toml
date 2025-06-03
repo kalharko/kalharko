@@ -1,0 +1,52 @@
+theme = "vim_dark_high_contrast"
+
+[editor]
+mouse = true
+popup-border = "all"
+true-color = true
+end-of-line-diagnostics = "hint"
+
+[editor.statusline]
+left = ["mode", "spinner", "version-control", "file-name", "read-only-indicator", "file-modification-indicator"]
+# Minimum severity to show a diagnostic after the end of a line
+# end-of-line-diagnostics = "hint"
+
+[editor.inline-diagnostics]
+cursor-line = "error" # Show inline diagnostics when the cursor is on the line
+other-lines = "disable" # Don't expand diagnostics unless the cursor is on the line
+
+[editor.lsp]
+# Show LSP messages in the status line
+display-messages = true
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[editor.soft-wrap]
+enable = true
+max-wrap = 25 # increase value to reduce forced mid-word wrapping
+max-indent-retain = 0
+wrap-indicator = ""  # set wrap-indicator to "" to hide it
+wrap-at-text-width = true
+
+[editor.auto-save]
+after-delay.enable = true
+after-delay.timeout = 100
+
+[keys.normal]
+"C-q" = ":quit!"
+A-x = "extend_to_line_bounds"
+X = "select_line_above"
+
+[keys.select]
+A-x = "extend_to_line_bounds"
+X = "select_line_above"
+
+[keys.insert]
+C-backspace = "delete_word_backward"
+
